@@ -1,0 +1,18 @@
+{
+    "name": "mboatek/mksms",
+    "description": "A PHP Client to access MKsms API",
+    "keywords": ["mksms", "sms", "cameroon", "api"],
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Matrix Jef",
+            "email": "jefcolbi@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"mksms\\": "src/"}
+    },
+    "require": {}
+}
